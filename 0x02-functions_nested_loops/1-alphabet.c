@@ -2,8 +2,7 @@
 
 
 	/**
-	 * Description: program that prints alphabet using 1-alphabet.c prototype
-         *print_alphabet - print all alphabet in lowercase
+         *Description :print_alphabet - print all alphabet in lowercase
 	 */
 
 
