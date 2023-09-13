@@ -1,6 +1,7 @@
 #include "main.h"
 	/**
-         *Description :print_alphabet - print all alphabet in lowercase
+         * main - Entry point
+         * Description :print_alphabet - print all alphabet in lowercase
 	 */
 
 
